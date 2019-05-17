@@ -1,4 +1,8 @@
-# Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB
+# Adafruit Huzzah ESP8266 Basic Breakout PCB
+<a href="http://www.adafruit.com/products/2471"><img src="assets/image.jpg?raw=true" width="500px"><br/>
+Click here to purchase one from the Adafruit shop</a>
+
+
 PCB files for Adafruit Huzzah ESP8266 Basic Breakout
 
 Format is EagleCAD schematic and board layout
